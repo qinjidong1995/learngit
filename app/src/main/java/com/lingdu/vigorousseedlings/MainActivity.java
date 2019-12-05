@@ -65,7 +65,7 @@ public class MainActivity extends MvvmActivity<ActivityMainBinding, MvvmBaseView
 
     @Override
     protected void onRetryBtnClick() {
-        //jhahaa
+        //jhahaaa
     }
 
     @Override
