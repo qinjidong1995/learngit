@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">禾好旺</string>
+    <string name="network_request_failed">网络请求失败</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_categories">商城</string>
+    <string name="menu_services">分类</string>
+    <string name="menu_shopping_art">购物车</string>
+    <string name="menu_account">我的</string>
+</resources>
